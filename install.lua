@@ -1,3 +1,3 @@
-wget https://raw.githubusercontent.com/Johndaboy/computercraft/main/chest_monitor.lua
+shell.run("wget https://raw.githubusercontent.com/Johndaboy/computercraft/main/chest_monitor.lua")
 sleep(4)
-wget https://raw.githubusercontent.com/Johndaboy/computercraft/main/startup.lua
+shell.run("wget https://raw.githubusercontent.com/Johndaboy/computercraft/main/startup.lua")
